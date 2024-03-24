@@ -15,11 +15,7 @@ The CPU Killer tool is used to put heavy computational loads on the CPU, causing
 - **Graphical Interface:** Provide a user-friendly graphical interface for configuring stress tests, monitoring system performance, and analyzing results.
 
 ## Usage
-
-1. **Configuration:** Select the desired CPU stress test parameters, including workload intensity, duration, and number of threads.
-2. **Initiation:** Start the CPU stress test to begin generating computational loads and overloading the CPU.
-3. **Monitoring:** Monitor CPU utilization, temperature, and other performance metrics in real-time during stress testing.
-4. **Analysis:** Analyze stress test results to evaluate CPU performance, identify potential bottlenecks, and optimize system configurations.
+Run it as administrator
 
 ## Warning
 
