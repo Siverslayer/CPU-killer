@@ -1,3 +1,4 @@
+السلام عليكم اقراء جيدا
 # CPU Killer
 
 The CPU Killer is a tool designed to stress and overload the CPU of a computer system, simulating high computational loads for testing, benchmarking, or stress testing purposes.
